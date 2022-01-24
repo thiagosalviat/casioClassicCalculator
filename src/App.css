@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  color: #303030;
+  text-align: center;
+}
+
+.App-header {
+  padding: 10px;
+  color: white;
+}
+
+.App-header p {
+  color: gray;
+}
+
+p.App-lead {
+  border-top: 1px solid #151515;
+  padding-top: 24px;
+  color: dimgray;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.App-title {
+  font-weight: 500;
+}
+
+.App-intro {
+  margin: 0 auto;
+  width: 320px;
+  text-align: left;
+}
+
+.Footer-text {
+  color: #606060;
+  font-size: 80%;
+  margin-top: 30px;
+}
+
+.Footer-text a {
+  color: gray;
+}
+
+.Footer-text a:hover {
+  color: lightgray;
+  text-decoration: none;
+}
+
+.original-photo {
+  position: fixed;
+  top: 200px;
+  left: 50%;
+  margin-left: 200px;
+}
+
+.keyboxes {
+  width: 500px;
+  margin: 24px auto 0px;
+  border-top: 1px solid #332f2f;
+  padding-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.keycode {
+  background: darkslateblue;
+  color: lightgray;
+  border-radius: 4px;
+  padding: 4px 2px;
+}
+
+.hint {
+  font-size: 10px;
+}
