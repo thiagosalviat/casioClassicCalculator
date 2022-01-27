@@ -21,7 +21,6 @@ I found an old Casio calculator in the offfice of my current company. I got inte
 
 [demo-image]: https://images-na.ssl-images-amazon.com/images/I/71kcP55HoEL._SX522_.jpg
 
-
 [demo-image]: screenshot.png
 
 ## Implementation
